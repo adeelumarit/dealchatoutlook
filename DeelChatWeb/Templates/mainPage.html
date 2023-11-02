@@ -1,0 +1,94 @@
+﻿<div ng-controller="mainpageCTRL">
+    <div>
+        <md-toolbar class="md-hue-2" style="background-color: #106EBE; min-height: 8vh; height: 5vh;">
+            <div class="md-toolbar-tools" style="justify-content:space-between">
+                <h3>DealChat</h3>
+                <!-- <md-button class="md-raised" ng-click="addContract(ev)" style="display: flex; align-items: center;">
+                            </md-button>
+
+                -->
+                <!--<span class="material-symbols-outlined" ng-click="addContract(ev)" style="margin-left: auto; color: white;cursor:pointer">
+                    <md-tooltip md-direction="left">Add Contract</md-tooltip>
+                    add_circle
+                </span>-->
+                <div>
+                    <md-icon style="cursor:pointer" ng-click="reloadAddin()">
+                        <md-tooltip md-direction="left">
+                            Refresh
+                        </md-tooltip>refresh
+                    </md-icon>
+                    <md-menu md-offset="0 -7" style=" margin-right: -21px; margin-left: -10px; ">
+                        <md-button aria-label="Open demo menu" class="md-icon-button" ng-click="$mdMenu.open($event)">
+                            <md-icon>
+                                <md-tooltip md-direction="left">
+                                    Menu
+                                </md-tooltip>menu
+                            </md-icon>
+                        </md-button>
+
+
+                        <md-menu-content width="2">
+                           
+                            <md-menu-item>
+                                <md-button ng-click="addCompany()">
+                                    <md-icon style="">add</md-icon>
+                                    <span md-menu-align-target>Company</span>
+
+                                </md-button>
+
+                            </md-menu-item>
+                            
+                            <md-menu-item>
+                                <md-button ng-click="Logout()">
+                                    <md-icon style="">logout</md-icon>
+                                    <span md-menu-align-target>Signout</span>
+
+
+                                </md-button>
+
+                            </md-menu-item>
+                        </md-menu-content>
+                    </md-menu>
+
+                </div>
+
+            </div>
+        </md-toolbar>
+
+    </div>
+    <md-card>
+
+        <div layout="column" layout-align="center center">
+            <md-select placeholder="Select Contract" id="contractdropdown" ng-model="contract" ng-change="getSelectedText()" style="min-width: 200px;">
+                <md-option ng-value="cntrs" ng-repeat="cntrs in Contracts">{{cntrs.contractName}}</md-option>
+            </md-select>
+            <!-- <p class="md-caption">You have assigned the task to: {{ cntrs ? cntrs.Titile : 'No one yet' }}</p>-->
+        </div>
+
+        <div layout="column" layout-align="center center">
+            <md-select placeholder="Select Clause" id="contractdropdown" ng-model="Clauses" ng-change="getSelectedClauseINFO()" style="min-width: 200px;" multiple>
+                <md-option ng-value="cntrs" ng-repeat="cntrs in Clause">{{cntrs.name}}</md-option>
+            </md-select>
+            <!-- <p class="md-caption">You have assigned the task to: {{ cntrs ? cntrs.Titile : 'No one yet' }}</p>-->
+        </div>
+
+
+
+
+        <md-card-actions layout="row" layout-align="center center">
+
+            <div layout="column" layout-align="center center" style=" padding: 5px;">
+                <md-button style="width: 70%; min-width: 100px; background: #106EBE; color: white " ng-click="TagEmail_Clauses()">
+                    Tag Email
+                </md-button>
+                <!-- <p class="md-caption">You have assigned the task to: {{ cntrs ? cntrs.Titile : 'No one yet' }}</p>-->
+            </div>
+        </md-card-actions>
+    </md-card>
+
+
+    <!--<md-button ng-click="getmailBody()">
+        getmail
+    </md-button>-->
+
+</div>

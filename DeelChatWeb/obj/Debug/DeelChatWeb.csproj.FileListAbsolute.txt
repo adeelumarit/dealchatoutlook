@@ -1,0 +1,255 @@
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\DeelChatWeb.dll.config
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\DeelChatWeb.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\DeelChatWeb.pdb
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\csc.exe
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\csc.exe.config
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\csc.rsp
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\csi.exe
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\csi.exe.config
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\csi.rsp
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Console.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\vbc.exe
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\vbc.exe.config
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\vbc.rsp
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.csproj.AssemblyReference.cache
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.csproj.CoreCompileInputs.cache
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.csproj.CopyComplete
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.pdb
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\Antlr3.Runtime.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\Newtonsoft.Json.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Helpers.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Mvc.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Optimization.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Razor.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.WebPages.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\WebGrease.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\Newtonsoft.Json.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Helpers.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Mvc.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Optimization.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Razor.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.WebPages.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Http.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Http.xml
+C:\Users\Asif computer\source\repos\DeelChat\DeelChatWeb\bin\System.Web.Http.WebHost.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\DeelChatWeb.dll.config
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\DeelChatWeb.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\DeelChatWeb.pdb
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\csc.exe
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\csc.exe.config
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\csc.rsp
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\csi.exe
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\csi.exe.config
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\csi.rsp
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.AppContext.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Console.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Globalization.Calendars.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.IO.Compression.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Net.Http.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Net.Sockets.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.ValueTuple.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.XPath.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\vbc.exe
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\vbc.exe.config
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\vbc.rsp
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\VBCSCompiler.exe
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\Antlr3.Runtime.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\Newtonsoft.Json.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Net.Http.Formatting.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Helpers.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Http.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Http.WebHost.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Mvc.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Optimization.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Razor.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Deployment.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Razor.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\WebGrease.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\Antlr3.Runtime.pdb
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\Newtonsoft.Json.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Net.Http.Formatting.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Helpers.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Http.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Http.WebHost.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Mvc.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Optimization.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.Razor.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Deployment.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Razor.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.csproj.AssemblyReference.cache
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.csproj.CoreCompileInputs.cache
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.csproj.CopyComplete
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.dll
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.pdb
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\DeelChatWeb.dll.config
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\DeelChatWeb.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\DeelChatWeb.pdb
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\csc.exe
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\csc.exe.config
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\csc.rsp
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\csi.exe
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\csi.exe.config
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\csi.rsp
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.AppContext.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Console.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Globalization.Calendars.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.IO.Compression.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Net.Http.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Net.Sockets.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.ValueTuple.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.XPath.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\vbc.exe
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\vbc.exe.config
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\vbc.rsp
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\VBCSCompiler.exe
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\Antlr3.Runtime.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\Newtonsoft.Json.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Net.Http.Formatting.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Helpers.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Http.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Http.WebHost.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Mvc.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Optimization.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Razor.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Deployment.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Razor.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\WebGrease.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\Antlr3.Runtime.pdb
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\Newtonsoft.Json.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Net.Http.Formatting.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Helpers.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Http.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Http.WebHost.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Mvc.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Optimization.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.Razor.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Deployment.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\System.Web.WebPages.Razor.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.csproj.AssemblyReference.cache
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.csproj.CoreCompileInputs.cache
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.csproj.CopyComplete
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.dll
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChatWeb\obj\Debug\DeelChatWeb.pdb

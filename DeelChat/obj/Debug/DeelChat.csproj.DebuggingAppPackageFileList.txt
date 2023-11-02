@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\DealChat.xml
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChat\bin\Debug\DeelChat.debugapp

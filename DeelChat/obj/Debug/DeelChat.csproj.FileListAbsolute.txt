@@ -1,0 +1,9 @@
+C:\Users\Asif computer\source\repos\DeelChat\DeelChat\obj\Debug\DeelChat.csproj.AssemblyReference.cache
+C:\Users\Asif computer\source\repos\DeelChat\DeelChat\obj\Debug\DeelChat.csproj.CoreCompileInputs.cache
+C:\Users\Asif computer\source\repos\DeelChat\DeelChat\bin\Debug\DeelChat.dll.config
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChat\bin\Debug\DeelChat.dll.config
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChat\obj\Debug\DeelChat.csproj.AssemblyReference.cache
+E:\ProjectDealChat\DealChat OUTLOOKaddin 1148AM 08282023\DeelChat\DeelChat\obj\Debug\DeelChat.csproj.CoreCompileInputs.cache
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChat\bin\Debug\DeelChat.dll.config
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChat\obj\Debug\DeelChat.csproj.AssemblyReference.cache
+E:\DealChatPhaseSecond\DeelChatoutlookaddinphasesecond0832AM09182023\DeelChat\DeelChat\obj\Debug\DeelChat.csproj.CoreCompileInputs.cache
