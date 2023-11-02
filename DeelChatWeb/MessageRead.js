@@ -6,8 +6,6 @@ var dialogueURL = "https://adeelumarit.github.io/dealchatoutlook/DeelChatWeb"
 
 
 var app = angular.module('DealChat', ['ngMaterial', "ngRoute"], function () {
-
-
 });
 
 
